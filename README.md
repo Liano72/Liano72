@@ -24,7 +24,7 @@ Busco uma oportunidade como Desenvolvedor Júnior, onde possa aplicar meus conhe
 
 ### 🤖 Linguagens e Tecnologias
 
-<img width="40" height="40" alt="icons8-html-5-96" src="https://github.com/user-attachments/assets/0ee5d1d1-8e23-47e1-8ab6-0c2a580f545f" />
+<img width="50" height="50" alt="icons8-html-5-96" src="https://github.com/user-attachments/assets/0ee5d1d1-8e23-47e1-8ab6-0c2a580f545f" />
 <img  width="40" height="50" alt="css3" src="https://github.com/user-attachments/assets/1762d124-9372-4716-aeda-e57171061795" />
-<img width="40" height="40" alt="React JS"  src="https://github.com/user-attachments/assets/c12c0dba-c613-472b-b3e4-e762238729f9" />
-<img width="40" height="40" alt="javascript" src="https://github.com/user-attachments/assets/ec85faf4-0068-4708-8f1b-cdd4e3440ddc" />
+<img width="50" height="50" alt="React JS"  src="https://github.com/user-attachments/assets/c12c0dba-c613-472b-b3e4-e762238729f9" />
+<img width="50" height="50" alt="javascript" src="https://github.com/user-attachments/assets/ec85faf4-0068-4708-8f1b-cdd4e3440ddc" />
