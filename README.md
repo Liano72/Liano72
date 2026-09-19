@@ -16,8 +16,10 @@ Busco uma oportunidade como Desenvolvedor Júnior, onde possa aplicar meus conhe
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Liano72?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
+                  
+          
 </a>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 ---
 
 ### 🤖 Linguagens e Tecnologias
