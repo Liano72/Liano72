@@ -28,3 +28,4 @@ Busco uma oportunidade como Desenvolvedor Júnior, onde possa aplicar meus conhe
 <img width="50" height="50" alt="icons8-css-96" src="https://github.com/user-attachments/assets/08297278-f8a6-4f9d-ad69-0dd9fba6f5db" />
 <img width="50" height="50" alt="javascript" src="https://github.com/user-attachments/assets/ec85faf4-0068-4708-8f1b-cdd4e3440ddc" />
 <img width="50" height="50" alt="React JS"  src="https://github.com/user-attachments/assets/c12c0dba-c613-472b-b3e4-e762238729f9" />
+<img width="50" height="50" alt="Vite js" src="https://github.com/user-attachments/assets/322f8f25-02ad-4ebc-acd9-5ee192b676e5" />
