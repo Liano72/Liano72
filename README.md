@@ -19,9 +19,10 @@ Busco uma oportunidade como Desenvolvedor Júnior, onde possa aplicar meus conhe
                   
           
 </a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
 <img width="40" height="40" alt="React JS" src="https://github.com/user-attachments/assets/9f6387ed-bb30-480d-9c3a-11f4070a1bf4" />
+<img width="40" height="40" alt="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
