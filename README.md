@@ -10,7 +10,13 @@ Possuo conhecimentos em JavaScript, TypeScript, React, HTML5, CSS3, Bootstrap, j
 Minha experiência profissional também fortaleceu minhas habilidades em raciocínio lógico, análise, troubleshooting, resolução de problemas, trabalho em equipe e aprendizado de novas tecnologias.
 Busco uma oportunidade como Desenvolvedor Júnior, onde possa aplicar meus conhecimentos, evoluir profissionalmente e contribuir com a equipe.
 
-
+<a href="https://github.com/Liano72?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+</a>
 <!--
 **Liano72/Liano72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
